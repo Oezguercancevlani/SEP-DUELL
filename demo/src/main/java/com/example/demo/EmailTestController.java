@@ -21,7 +21,7 @@ public class EmailTestController {
         // Füge einen Betreff für die E-Mail hinzu
         String subject = "Test Email Subject";
         String content = "This is a test email sent by Spring Boot.";
-        emailSender.send("gatekeeper.cardhaven@gmail.com", content, subject);
+        emailSender.send("your_gmail", content, subject);
         return "Email sent!";
     }
 }

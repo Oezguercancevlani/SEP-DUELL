@@ -3,7 +3,7 @@ spring:
     url: jdbc:postgresql://localhost:5432/registration
     #url: jdbc:postgresql://postgresqldb:5432/registration
     username: postgres
-    password: 123456
+    password: CHANGE_ME_DB_PASSWORD
   jpa:
     hibernate:
       ddl-auto: update
@@ -16,8 +16,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: gatekeeper.cardhaven@gmail.com
-    password: vdafjcxkzihyyoqq
+    username: CHANGE_ME_MAIL_USERNAME
+    password: CHANGE_ME_MAIL_APP_PASSWORD
     properties:
       mail:
         smtp:
