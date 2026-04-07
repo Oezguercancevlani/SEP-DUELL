@@ -1,0 +1,8 @@
+Anleitung zum Import der Kartendaten
+
+- Speichern Sie die Datei „Alle Karten.csv“ im Download-Ordner Ihres Computers.
+- Starten Sie anschließend das Frontend der Anwendung.
+- Melden Sie sich mit einem Benutzerkonto an, das über Admin-Rechte verfügt.
+- Navigieren Sie zum Bereich „Mein Adminsteuerfeld“.
+- Klicken Sie auf „Durchsuchen“.
+- Wählen Sie die Datei „Alle Karten.csv“ aus Ihrem Download-Ordner aus.
