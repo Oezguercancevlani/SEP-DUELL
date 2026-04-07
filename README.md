@@ -125,7 +125,7 @@ Eine **skalierbare, interaktive Multiplayer-Plattform** für strategische Duelle
 
 ---
 
-## 🧠 Technische Highlights (WICHTIG FÜR INTERVIEW)
+## 🧠 Technische Highlights
 
 👉 basiert direkt auf eurer Projektmappe:
 
