@@ -171,6 +171,7 @@ Eine **skalierbare, interaktive Multiplayer-Plattform** für strategische Duelle
 ---
 
 🎯 Ziele & Mehrwert
+
 Für Nutzer
 
 ✔ Strategisches Gameplay
