@@ -187,13 +187,39 @@ Technisch
 
 ---
 
+⚠️ Wichtiger Hinweis zu den Konfigurationsdateien
+
+In der Datei application.yml wurden aus Sicherheitsgründen Platzhalter anstelle echter Zugangsdaten eingetragen.
+
+Das betrifft insbesondere:
+- das Datenbank-Passwort
+- den Mail-Benutzernamen
+- das Mail-App-Passwort
+
+Vor dem Start der Anwendung müssen diese Platzhalter durch die eigenen lokalen Zugangsdaten ersetzt werden.
+
+Beispiel:
+- CHANGE_ME_DB_PASSWORD
+- CHANGE_ME_MAIL_USERNAME
+- CHANGE_ME_MAIL_APP_PASSWORD
+
+Zusätzlich enthält der EmailTestController eine Test-Mail-Adresse bzw. eine anpassbare Zieladresse für Testzwecke.
+Falls die Testfunktion verwendet werden soll, muss dort die gewünschte eigene E-Mail-Adresse eingetragen oder die Zieladresse entsprechend angepasst werden.
+
+Diese Änderungen sind notwendig, damit:
+1. die Verbindung zur PostgreSQL-Datenbank funktioniert,
+2. E-Mails für Verifizierung oder 2FA korrekt versendet werden können,
+3. keine sensiblen Zugangsdaten öffentlich im Projekt gespeichert sind.
+
+---
+
 📜 Lizenz
 
 MIT License – Nutzung für Studium & private Projekte erlaubt.
 
 ---
 
-🎓 Universität Duisburg-Essen – SEP Projekt
+### 🎓 Universität Duisburg-Essen – SEP Projekt
 
 ---
 
