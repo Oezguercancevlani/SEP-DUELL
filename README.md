@@ -13,11 +13,11 @@ Fullstack Web-App (React · Spring Boot · PostgreSQL · WebSockets)
 
 ### 🔐 Registrierung, Login & 2FA
 <p align="center">
-  <img src="docs/images/registration-screen.png" width="900" alt="Registration Screen">
+  <img src="docs/images/registration-screen.png" width="700" alt="Registration Screen">
 </p>
 
 <p align="center">
-  <img src="docs/images/email-confirmation.png" width="900" alt="Email Confirmation">
+  <img src="docs/images/email-confirmation.png" width="600" alt="Email Confirmation">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Fullstack Web-App (React · Spring Boot · PostgreSQL · WebSockets)
 
 ### 🃏 Deck Management
 <p align="center">
-  <img src="docs/images/deck-management.png" width="500" alt="Deck Management">
+  <img src="docs/images/deck-management.png" width="400" alt="Deck Management">
 </p>
 
 ### 👥 Freundesliste & 💬 Echtzeit-Chat
