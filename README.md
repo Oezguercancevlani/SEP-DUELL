@@ -11,34 +11,45 @@ Fullstack Web-App (React · Spring Boot · PostgreSQL · WebSockets)
 
 ## 📸 Screenshots & Features
 
-### 🔐 Registrierung & Login + 2FA
+### 🔐 Registrierung, Login & 2FA
 <p align="center">
-  <img src="docs/images/login.png" width="900">
+  <img src="docs/images/registration-screen.png" width="900" alt="Registration Screen">
+</p>
+
+<p align="center">
+  <img src="docs/images/email-confirmation.png" width="900" alt="Email Confirmation">
+</p>
+
+<p align="center">
+  <img src="docs/images/login-screen.png" width="900" alt="Login Screen">
+</p>
+
+<p align="center">
+  <img src="docs/images/two-factor-auth.png" width="900" alt="Two Factor Authentication Screen">
 </p>
 
 ### 🏠 Dashboard / Startseite
 <p align="center">
-  <img src="docs/images/dashboard.png" width="900">
+  <img src="docs/images/home-dashboard.png" width="900" alt="Home Dashboard">
+</p>
+
+<p align="center">
+  <img src="docs/images/leaderboard-screen.png" width="900" alt="Leaderboard Screen">
 </p>
 
 ### 🃏 Deck Management
 <p align="center">
-  <img src="docs/images/deck.png" width="900">
+  <img src="docs/images/deck-management.png" width="900" alt="Deck Management">
 </p>
 
-### 👥 Freundesliste & Profile
+### 👥 Freundesliste & 💬 Echtzeit-Chat
 <p align="center">
-  <img src="docs/images/friends.png" width="900">
+  <img src="docs/images/chat-screen.png" width="900" alt="Friends and Chat Screen">
 </p>
 
-### ⚔️ Live Duell-System
+### ⚔️ Live-Duell-System
 <p align="center">
-  <img src="docs/images/duel.png" width="900">
-</p>
-
-### 💬 Echtzeit Chat
-<p align="center">
-  <img src="docs/images/chat.png" width="900">
+  <img src="docs/images/live-duel-screen.png" width="900" alt="Live Duel Screen">
 </p>
 
 ---
