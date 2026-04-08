@@ -21,8 +21,8 @@ Fullstack Web-App (React · Spring Boot · PostgreSQL · WebSockets)
 </p>
 
 <p align="center">
-  <img src="docs/images/login-screen.png" width="300" alt="Login Screen">
-  <img src="docs/images/two-factor-auth.png" width="300" alt="Two Factor Authentication Screen">
+  <img src="docs/images/login-screen.png" height="400" alt="Login Screen">
+  <img src="docs/images/two-factor-auth.png" height="400" alt="Two Factor Authentication Screen">
 </p>
 
 ### 🏠 Dashboard / Startseite
