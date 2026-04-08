@@ -21,11 +21,11 @@ Fullstack Web-App (React · Spring Boot · PostgreSQL · WebSockets)
 </p>
 
 <p align="center">
-  <img src="docs/images/login-screen.png" width="900" alt="Login Screen">
+  <img src="docs/images/login-screen.png" width="400" alt="Login Screen">
 </p>
 
 <p align="center">
-  <img src="docs/images/two-factor-auth.png" width="900" alt="Two Factor Authentication Screen">
+  <img src="docs/images/two-factor-auth.png" width="400" alt="Two Factor Authentication Screen">
 </p>
 
 ### 🏠 Dashboard / Startseite
@@ -39,7 +39,7 @@ Fullstack Web-App (React · Spring Boot · PostgreSQL · WebSockets)
 
 ### 🃏 Deck Management
 <p align="center">
-  <img src="docs/images/deck-management.png" width="900" alt="Deck Management">
+  <img src="docs/images/deck-management.png" width="500" alt="Deck Management">
 </p>
 
 ### 👥 Freundesliste & 💬 Echtzeit-Chat
