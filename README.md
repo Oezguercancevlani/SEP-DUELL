@@ -219,6 +219,9 @@ Diese Änderungen sind notwendig, damit:
 2. E-Mails für Verifizierung oder 2FA korrekt versendet werden können,
 3. keine sensiblen Zugangsdaten öffentlich im Projekt gespeichert sind.
 
+⚠️ Wichtiger Hinweis:
+Navigiere im Terminal in den Ordner „templates“. Führe anschließend den Befehl „npm start“ aus, um das Frontend zu starten.
+
 ---
 
 📜 Lizenz
