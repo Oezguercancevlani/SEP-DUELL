@@ -13,7 +13,7 @@ Fullstack Web-App (React · Spring Boot · PostgreSQL · WebSockets)
 
 ### 🔐 Registrierung, Login & 2FA
 <p align="center">
-  <img src="docs/images/registration-screen.png" width="700" alt="Registration Screen">
+  <img src="docs/images/registration-screen.png" width="600" alt="Registration Screen">
 </p>
 
 <p align="center">
